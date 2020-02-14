@@ -8,3 +8,8 @@ You can find a CSV file than contains every updates that will occur around 9AM C
 
 
 EDIT : As February 2nd a first death occured outside of China, a new column has been added to track the number of death that did not occure in China. 
+
+UPDATE: I've added % daily change of death
+I will also add % for infected change 
+
+Humans are struggling to survive
