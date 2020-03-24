@@ -1,4 +1,4 @@
-Date;Infected;Dead;DeathByDay;Daily death Change;Daily death Change in %;InternationalDeath;Days
+Date;Infected;Dead;DeathByDay;Daily Death Change;Daily Death Change in %;InternationalDeath;Days
 2020-01-01;1;0;0;0;0;0;0
 2020-01-02;1;0;0;0;0;0;1
 2020-01-03;14;0;0;0;0;0;2
@@ -81,3 +81,5 @@ Date;Infected;Dead;DeathByDay;Daily death Change;Daily death Change in %;Interna
 2020-03-19;245967;10048;1078;98;10 %;6480;79
 2020-03-20;276621;11419;1371;293;27 %;7848;80
 2020-03-21;305564;13069;1650;279;20 %;9491;81
+2020-03-22;339709;14704;1635;-15;-1 %;11117;82
+2020-03-23;382126;16568;1861;226;13 %;12969;83
